@@ -2,7 +2,8 @@
 ✨ Videos de diseños de páginas terminadas ✨
 
 En la siguiente url se encuentran algunos de los diseños de mis proyectos personales terminados, se enceuntran en formato de video
-URL: bit.ly/designProjects-vanef
+
+URL: <a href="https://bit.ly/designProjects-vanef" target="_blank">bit.ly/designProjects-vanef</a>
 
 🏊‍♂️ Aquamasters - sitio sencillo diseñado con Bootstrap 5, basada en una escuela de natación<br>
 🤓 kitsch! - sitio diseñado con html, css, javascript y algo de jquery, es sobre una agencia de diseño que sirve como book de proyectos<br>
